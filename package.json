@@ -1,0 +1,53 @@
+{
+  "name": "momentum-academy",
+  "version": "1.0.1",
+  "description": "Modern WordPress block theme (FSE) — fully compatible with Masteriyo LMS",
+  "author": "ThemeGrill",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "WordPress",
+    "Theme",
+    "Block Theme",
+    "FSE",
+    "Masteriyo",
+    "LMS",
+    "Education"
+  ],
+  "scripts": {
+    "release": "gulp build",
+    "zip": "gulp zip",
+    "pot": "gulp pot",
+    "lint:css": "stylelint assets/src/scss/**/*.scss",
+    "lint:css:fix": "stylelint assets/src/scss/**/*.scss --fix",
+    "lint:php": "composer phpcs",
+    "lint:php:fix": "composer phpcbf",
+    "lint": "npm run lint:php && npm run lint:js && npm run lint:css",
+    "format": "npm run lint:php:fix && npm run lint:js:fix && npm run lint:css:fix"
+  },
+  "homepage": "https://themegrill.com/themes/momentum-academy/",
+  "devDependencies": {
+    "@babel/core": "7.28.5",
+    "@wordpress/babel-preset-default": "8.30.0",
+    "@wordpress/eslint-plugin": "22.21.0",
+    "@wordpress/stylelint-config": "23.26.0",
+    "cssnano": "7.1.1",
+    "eslint": "9.39.1",
+    "gulp": "5.0.1",
+    "gulp-clean": "0.4.0",
+    "gulp-concat-css": "3.1.0",
+    "gulp-cssnano": "2.1.3",
+    "gulp-line-ending-corrector": "1.0.3",
+    "gulp-notify": "5.0.0",
+    "gulp-rename": "2.1.0",
+    "gulp-rtlcss": "2.0.0",
+    "gulp-sass": "6.0.1",
+    "gulp-wp-pot": "2.5.0",
+    "gulp-zip": "5.1.0",
+    "postcss": "8.5.6",
+    "postcss-cli": "11.0.1",
+    "prettier": "3.6.2",
+    "sass": "1.94.2",
+    "stylelint": "16.25.0"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}

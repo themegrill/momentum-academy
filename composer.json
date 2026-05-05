@@ -1,0 +1,38 @@
+{
+  "name": "theme-grill/momentum-academy",
+  "description": "Modern WordPress block theme (FSE) — fully compatible with Masteriyo LMS",
+  "keywords": [
+    "wordpress-theme",
+    "block-theme",
+    "fse",
+    "masteriyo",
+    "lms",
+    "education"
+  ],
+  "autoload": {
+    "psr-4": {
+      "ThemeGrill\\MomentumAcademy\\": "src/"
+    },
+    "files": [
+      "vendor/themegrill/themegrill-sdk/load.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "ThemeGrill",
+      "homepage": "https://themegrill.com"
+    }
+  ],
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true
+    }
+  },
+  "require-dev": {
+    "wp-coding-standards/wpcs": "^3.0",
+    "phpcompatibility/phpcompatibility-wp": "2.1.0"
+  },
+  "require": {
+    "themegrill/themegrill-sdk": "^1.0"
+  }
+}
