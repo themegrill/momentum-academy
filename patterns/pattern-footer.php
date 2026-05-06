@@ -26,7 +26,7 @@
 <p class="has-text-color" style="color:rgba(250,246,239,0.45);margin-top:0px;margin-bottom:18px;font-size:12px;font-weight:500;letter-spacing:0.14em;text-transform:uppercase">Learn</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:navigation {"overlayMenu":"never","style":{"typography":{"fontSize":"15px"},"color":{"text":"#FAF6EF"},"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<!-- wp:navigation {"textColor":"white","overlayMenu":"never","style":{"typography":{"fontSize":"15px"},"color":{"text":"#FAF6EF"},"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <!-- wp:navigation-link {"label":"All courses","url":"#"} /-->
 
 <!-- wp:navigation-link {"label":"Pathways","url":"#"} /-->
@@ -42,7 +42,7 @@
 <p class="has-text-color" style="color:rgba(250,246,239,0.45);margin-top:0px;margin-bottom:18px;font-size:12px;font-weight:500;letter-spacing:0.14em;text-transform:uppercase">Company</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:navigation {"overlayMenu":"never","style":{"typography":{"fontSize":"15px"},"color":{"text":"#FAF6EF"},"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<!-- wp:navigation {"customTextColor":"#fefefe","overlayMenu":"never","style":{"typography":{"fontSize":"15px"},"color":{"text":"#FAF6EF"},"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <!-- wp:navigation-link {"label":"About","url":"#"} /-->
 
 <!-- wp:navigation-link {"label":"Coaches","url":"#"} /-->
@@ -58,7 +58,7 @@
 <p class="has-text-color" style="color:rgba(250,246,239,0.45);margin-top:0px;margin-bottom:18px;font-size:12px;font-weight:500;letter-spacing:0.14em;text-transform:uppercase">Support</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:navigation {"overlayMenu":"never","style":{"typography":{"fontSize":"15px"},"color":{"text":"#FAF6EF"},"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<!-- wp:navigation {"textColor":"white","overlayMenu":"never","style":{"typography":{"fontSize":"15px"},"color":{"text":"#FAF6EF"},"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <!-- wp:navigation-link {"label":"Help center","url":"#"} /-->
 
 <!-- wp:navigation-link {"label":"Contact","url":"#"} /-->
@@ -74,7 +74,7 @@
 <p class="has-text-color" style="color:rgba(250,246,239,0.45);margin-top:0px;margin-bottom:18px;font-size:12px;font-weight:500;letter-spacing:0.14em;text-transform:uppercase">Follow</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:navigation {"overlayMenu":"never","style":{"typography":{"fontSize":"15px"},"color":{"text":"#FAF6EF"},"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"vertical"}} -->
+<!-- wp:navigation {"textColor":"white","overlayMenu":"never","style":{"typography":{"fontSize":"15px"},"color":{"text":"#FAF6EF"},"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <!-- wp:navigation-link {"label":"Newsletter","url":"#"} /-->
 
 <!-- wp:navigation-link {"label":"Instagram","url":"#"} /-->
@@ -110,7 +110,3 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns --></footer>
 <!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->

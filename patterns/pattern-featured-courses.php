@@ -31,8 +31,8 @@
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|40"}}}} -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"border":{"radius":"16px","color":"#E6DED2","width":"1px"},"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"0"},"color":{"background":"#FAF6EF"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group has-border-color has-background" style="border-color:#E6DED2;border-width:1px;border-radius:16px;background-color:#FAF6EF;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"0px","bottomRight":"0px"}},"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
-<figure class="wp-block-image size-full has-custom-border" style="margin-top:0;margin-bottom:0"><img src="" alt="Person journaling with morning light — Confidence Reset course" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;aspect-ratio:4/3;object-fit:cover"/></figure>
+<div class="wp-block-group has-border-color has-background" style="border-color:#E6DED2;border-width:1px;border-radius:16px;background-color:#FAF6EF;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:image {"id":140,"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"0px","bottomRight":"0px"}},"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border" style="margin-top:0;margin-bottom:0"><img src="http://allcourses.local/wp-content/uploads/2026/05/pexels-maksgelatin-4352247-scaled.jpg" alt="" class="wp-image-140" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;aspect-ratio:4/3;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"22px","right":"22px","bottom":"24px","left":"22px"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"vertical"}} -->
@@ -57,8 +57,8 @@
 <p class="has-text-color" style="color:#4A4640;margin-top:0px;margin-right:0;margin-bottom:0px;margin-left:0;font-size:14px">★ 4.9 <span style="color:#8A8278">(3,210)</span></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"align":"right","style":{"typography":{"fontSize":"14px","fontWeight":"500"},"color":{"text":"#1B1A17"},"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
-<p class="has-text-align-right has-text-color" style="color:#1B1A17;margin-top:0px;margin-bottom:0px;font-size:14px;font-weight:500">View course →</p>
+<!-- wp:paragraph {"align":"right","style":{"typography":{"fontSize":"14px","fontWeight":"500"},"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"textColor":"accent"} -->
+<p class="has-text-align-right has-accent-color has-text-color" style="margin-top:0px;margin-bottom:0px;font-size:14px;font-weight:500">View course →</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
@@ -67,8 +67,8 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"border":{"radius":"16px","color":"#E6DED2","width":"1px"},"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"0"},"color":{"background":"#FAF6EF"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group has-border-color has-background" style="border-color:#E6DED2;border-width:1px;border-radius:16px;background-color:#FAF6EF;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"0px","bottomRight":"0px"}},"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
-<figure class="wp-block-image size-full has-custom-border" style="margin-top:0;margin-bottom:0"><img src="" alt="Morning light on a desk with coffee — Mornings That Move You course" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;aspect-ratio:4/3;object-fit:cover"/></figure>
+<div class="wp-block-group has-border-color has-background" style="border-color:#E6DED2;border-width:1px;border-radius:16px;background-color:#FAF6EF;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:image {"id":140,"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"0px","bottomRight":"0px"}},"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border" style="margin-top:0;margin-bottom:0"><img src="http://allcourses.local/wp-content/uploads/2026/05/pexels-maksgelatin-4352247-scaled.jpg" alt="" class="wp-image-140" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;aspect-ratio:4/3;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"22px","right":"22px","bottom":"24px","left":"22px"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"vertical"}} -->
@@ -93,8 +93,8 @@
 <p class="has-text-color" style="color:#4A4640;margin-top:0px;margin-bottom:0px;font-size:14px">★ 4.8 <span style="color:#8A8278">(5,640)</span></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"align":"right","style":{"typography":{"fontSize":"14px","fontWeight":"500"},"color":{"text":"#1B1A17"},"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
-<p class="has-text-align-right has-text-color" style="color:#1B1A17;margin-top:0px;margin-bottom:0px;font-size:14px;font-weight:500">View course →</p>
+<!-- wp:paragraph {"align":"right","style":{"typography":{"fontSize":"14px","fontWeight":"500"},"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"textColor":"accent"} -->
+<p class="has-text-align-right has-accent-color has-text-color" style="margin-top:0px;margin-bottom:0px;font-size:14px;font-weight:500">View course →</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
@@ -103,8 +103,8 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"border":{"radius":"16px","color":"#E6DED2","width":"1px"},"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"0"},"color":{"background":"#FAF6EF"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group has-border-color has-background" style="border-color:#E6DED2;border-width:1px;border-radius:16px;background-color:#FAF6EF;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"0px","bottomRight":"0px"}},"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
-<figure class="wp-block-image size-full has-custom-border" style="margin-top:0;margin-bottom:0"><img src="" alt="Person writing at a clean desk — Deep Work course" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;aspect-ratio:4/3;object-fit:cover"/></figure>
+<div class="wp-block-group has-border-color has-background" style="border-color:#E6DED2;border-width:1px;border-radius:16px;background-color:#FAF6EF;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:image {"id":140,"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"0px","bottomRight":"0px"}},"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border" style="margin-top:0;margin-bottom:0"><img src="http://allcourses.local/wp-content/uploads/2026/05/pexels-maksgelatin-4352247-scaled.jpg" alt="" class="wp-image-140" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;aspect-ratio:4/3;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"22px","right":"22px","bottom":"24px","left":"22px"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"vertical"}} -->
@@ -129,8 +129,8 @@
 <p class="has-text-color" style="color:#4A4640;margin-top:0px;margin-bottom:0px;font-size:14px">★ 4.7 <span style="color:#8A8278">(1,980)</span></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"align":"right","style":{"typography":{"fontSize":"14px","fontWeight":"500"},"color":{"text":"#1B1A17"},"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
-<p class="has-text-align-right has-text-color" style="color:#1B1A17;margin-top:0px;margin-bottom:0px;font-size:14px;font-weight:500">View course →</p>
+<!-- wp:paragraph {"align":"right","style":{"typography":{"fontSize":"14px","fontWeight":"500"},"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"textColor":"accent"} -->
+<p class="has-text-align-right has-accent-color has-text-color" style="margin-top:0px;margin-bottom:0px;font-size:14px;font-weight:500">View course →</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
@@ -139,8 +139,8 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"border":{"radius":"16px","color":"#E6DED2","width":"1px"},"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"0"},"color":{"background":"#FAF6EF"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group has-border-color has-background" style="border-color:#E6DED2;border-width:1px;border-radius:16px;background-color:#FAF6EF;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"0px","bottomRight":"0px"}},"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
-<figure class="wp-block-image size-full has-custom-border" style="margin-top:0;margin-bottom:0"><img src="" alt="Mountain horizon at sunrise — A Compass For Your Next Decade course" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;aspect-ratio:4/3;object-fit:cover"/></figure>
+<div class="wp-block-group has-border-color has-background" style="border-color:#E6DED2;border-width:1px;border-radius:16px;background-color:#FAF6EF;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:image {"id":140,"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"16px","topRight":"16px","bottomLeft":"0px","bottomRight":"0px"}},"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border" style="margin-top:0;margin-bottom:0"><img src="http://allcourses.local/wp-content/uploads/2026/05/pexels-maksgelatin-4352247-scaled.jpg" alt="" class="wp-image-140" style="border-top-left-radius:16px;border-top-right-radius:16px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;aspect-ratio:4/3;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"22px","right":"22px","bottom":"24px","left":"22px"},"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","orientation":"vertical"}} -->
@@ -165,8 +165,8 @@
 <p class="has-text-color" style="color:#4A4640;margin-top:0px;margin-bottom:0px;font-size:14px">★ 4.9 <span style="color:#8A8278">(2,420)</span></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"align":"right","style":{"typography":{"fontSize":"14px","fontWeight":"500"},"color":{"text":"#1B1A17"},"spacing":{"margin":{"top":"0px","bottom":"0px"}}}} -->
-<p class="has-text-align-right has-text-color" style="color:#1B1A17;margin-top:0px;margin-bottom:0px;font-size:14px;font-weight:500">View course →</p>
+<!-- wp:paragraph {"align":"right","style":{"typography":{"fontSize":"14px","fontWeight":"500"},"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"textColor":"accent"} -->
+<p class="has-text-align-right has-accent-color has-text-color" style="margin-top:0px;margin-bottom:0px;font-size:14px;font-weight:500">View course →</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
